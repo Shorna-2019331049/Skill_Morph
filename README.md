@@ -6,4 +6,5 @@
 - Research article writing and publication support
 - End-to-end guidance for high-impact research
 - Lifetime collaboration opportunities to grow and publish together
+
 Course Details: [Skillmorph](https://sites.google.com/view/skillmorph/home)
